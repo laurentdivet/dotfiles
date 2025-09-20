@@ -1,3 +1,7 @@
+# dossiers locaux à ignorer
+nouveauprojet/site/rocket-food-delivery-ruby-v/
+nouveauprojet/site/setup/
+
 # macOS
 .DS_Store
 
